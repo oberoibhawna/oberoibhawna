@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oberoibhawna
+- 👀 I’m interested in software engineering
+- 🌱 I’m currently learning react native, excel and what not...
+- 💞️ I’m looking to collaborate on consultation on software development
+- 📫 How to reach me? Send an email
